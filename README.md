@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/vesant?style=for-the-badge&color=6c3483&labelColor=1a1a1a" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/vesant/personal_repo?style=for-the-badge&color=8e44ad&labelColor=1a1a1a" alt="Repo stars"/>
+  <!--<img src="https://img.shields.io/github/stars/vesant/personal_repo?style=for-the-badge&color=8e44ad&labelColor=1a1a1a" alt="Repo stars"/>-->
   <img src="https://img.shields.io/badge/Code%20with-Passion-%23a259ff?style=for-the-badge&labelColor=1a1a1a" alt="Passion Badge"/>
 </p>
 
